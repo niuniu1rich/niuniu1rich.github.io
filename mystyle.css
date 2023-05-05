@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-image: url(a.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+h1 {
+  text-align: center;
+  text-shadow:  1px 1px 0 white,
+                -1px 1px 0 white,
+                1px -1px 0 white,
+                -1px -1px 0 white;
+  font-size: 200%;
+ }
+h2{
+  text-align: center;
+  text-shadow:  1px 1px 0 white,
+                -1px 1px 0 white,
+                1px -1px 0 white,
+                -1px -1px 0 white;
+  font-size: 75%;
+}
